@@ -1,4 +1,4 @@
-# ATM bank
+# Anjungan Tunai Mandiri Java Program
 
 ![1](https://github.com/nurkumalabudif/bank/blob/master/1.PNG)
 ![2](https://github.com/nurkumalabudif/bank/blob/master/2.PNG)
